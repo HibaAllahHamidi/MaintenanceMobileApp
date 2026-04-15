@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823806478257",
+    "project_id": "maintenancemobileapp-99f7c",
+    "storage_bucket": "maintenancemobileapp-99f7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823806478257:android:722343f19264ac3f365f90",
+        "android_client_info": {
+          "package_name": "com.brikolik.marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_dwXeMkYxK7B8DfnryWf1AEDg_crPj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
