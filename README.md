@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <br/>
@@ -310,3 +311,7 @@ See [LICENSE](LICENSE) for full details.
 *If this project helped you, consider giving it a* ⭐
 
 </div>
+=======
+# MaintenanceMobileApp
+Maintenance Mobile App
+>>>>>>> 0103d9d53fa07cc0d2a8be2d804efc2f68a6f366
